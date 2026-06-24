@@ -38,7 +38,7 @@ This repository contains programs written for the low-level programming and algo
 - [0x0F-function_pointers](0x0F-function_pointers/README.md)
 - [0x1B-sorting_algorithms](https://github.com/tafaranyamhunga/sorting_algorithms/tree/main)
 - [0x1C-makefiles](0x1C-makefiles/README.md)
-- [0x1D-binary_trees](https://github.com/tafaranyamhunga/0x1D-binary_trees/tree/main)
+- [0x1D-binary_trees](https://github.com/tafaranyamhunga/binary_trees/tree/main)
 - [0x1E-search_algorithms](0x1E-search_algorithms/README.md)
 
 ### Data structures and Algorithms:
@@ -51,7 +51,7 @@ This repository contains programs written for the low-level programming and algo
 ### Linux and Unix system programming:
 
 - [0x15-file_io](0x15-file_io/README.md)
-- [0x16-simple_shell](https://github.com/tafaranyamhunga/0x16-simple_shell/tree/main) (**Project**)
+- [0x16-simple_shell](https://github.com/tafaranyamhunga/simple_shell/tree/main) (**Project**)
 
 ## Concepts
 
