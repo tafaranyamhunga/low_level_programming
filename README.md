@@ -15,7 +15,6 @@ This repository contains programs written for the low-level programming and algo
 
 ### Hatching Out
 
-- [first_day_of_C](first_day_of_C/README.md)
 - [0x00-hello_world](0x00-hello_world/README.md)
 - [0x01-variables_if_else_while](0x01-variables_if_else_while/README.md)
 - [0x02-functions_nested_loops](0x02-functions_nested_loops/README.md)
