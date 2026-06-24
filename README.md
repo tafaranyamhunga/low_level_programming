@@ -19,7 +19,7 @@ This repository contains programs written for the low-level programming and algo
 - [0x01-variables_if_else_while](0x01-variables_if_else_while/README.md)
 - [0x02-functions_nested_loops](0x02-functions_nested_loops/README.md)
 - [0x03-debugging](0x03-debugging/README.md)
-- [0x04-functions_nested_loops](0x04-more_functions_nested_loops/README.md)
+- [0x04-more_functions_nested_loops](0x04-more_functions_nested_loops/README.md)
 - [0x05-pointers_arrays_strings](0x05-pointers_arrays_strings/README.md)
 - [0x06-pointers_arrays_strings](0x06-pointers_arrays_strings/README.md)
 - [0x07-pointers_arrays_strings](0x07-pointers_arrays_strings/README.md)
@@ -36,9 +36,9 @@ This repository contains programs written for the low-level programming and algo
 - [0x0D-preprocessor](0x0D-preprocessor/README.md)
 - [0x0E-structures_typedef](0x0E-structures_typedef/README.md)
 - [0x0F-function_pointers](0x0F-function_pointers/README.md)
-- [0x1B-sorting_algorithms](0x1B-sorting_algorithms_and_Big_O/README.md)
+- [0x1B-sorting_algorithms](https://github.com/tafaranyamhunga/sorting_algorithms/tree/main)
 - [0x1C-makefiles](0x1C-makefiles/README.md)
-- [0x1D-binary_trees](0x1D-binary_trees/README.md)
+- [0x1D-binary_trees](https://github.com/tafaranyamhunga/0x1D-binary_trees/tree/main)
 - [0x1E-search_algorithms](0x1E-search_algorithms/README.md)
 
 ### Data structures and Algorithms:
@@ -51,7 +51,7 @@ This repository contains programs written for the low-level programming and algo
 ### Linux and Unix system programming:
 
 - [0x15-file_io](0x15-file_io/README.md)
-- [0x16-simple_shell](0x16-simple_shell/README.md) (**Project**)
+- [0x16-simple_shell](https://github.com/tafaranyamhunga/0x16-simple_shell/tree/main) (**Project**)
 
 ## Concepts
 
