@@ -10,7 +10,6 @@ This repository contains programs written for the low-level programming and algo
 - [Acknowledgements](#acknowledgements)
 - [Credits](#credits)
 
-
 ## Structure
 
 ### Hatching Out
